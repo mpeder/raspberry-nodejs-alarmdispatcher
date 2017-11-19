@@ -9,3 +9,5 @@ https://www.w3schools.com/nodejs/nodejs_raspberrypi_gpio_intro.asp
 https://www.w3schools.com/nodejs/nodejs_raspberrypi_led_pushbutton.asp
 
 https://github.com/EnotionZ/GpiO
+
+https://azure-samples.github.io/raspberry-pi-web-simulator/#Getstarted
